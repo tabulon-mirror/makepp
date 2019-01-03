@@ -1,4 +1,5 @@
 
+## README [MIRROR]
 This is a git clone of Daniel Pfeiffer's excellent `makepp` program (a _"Compatible but improved replacement for make"_).
 
 The original project appears to be hosted only on a sourceforge CVS repository.
@@ -16,4 +17,7 @@ All changes and contributions should be submitted to the original author thru th
 
 -----------
 
+## README [ORIGINAL]
+
+The [ORIGINAL README](../README) may be viewed via the this [link](../README).
 
